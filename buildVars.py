@@ -27,6 +27,8 @@ It can span multiple lines."""),
 	"addon_url" : None,
 	# Documentation file name
 	"addon_docFileName" : "readme.html",
+	"lastTestedNVDAVersion": "2022.1",
+	"minimumNVDAVersion": "2022.1"
 }
 
 
